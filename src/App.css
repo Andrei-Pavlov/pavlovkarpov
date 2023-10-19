@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.bg-dark-teal {
+  background-color: #02525f!important;
+  color: #fff;
+}
+.nav-tabs .nav-link{
+  color: #fff;
+}

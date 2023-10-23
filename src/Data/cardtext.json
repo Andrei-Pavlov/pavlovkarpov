@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Teams",
+        "image": "https://images.pexels.com/photos/15659206/pexels-photo-15659206/free-photo-of-man-with-flowers-on-city-street.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "text": "Lorem ipsum2",
+        "link": "/about",
+        "caption": "About-taps"
+    },
+    {
+        "id": 2,
+        "title": "Works",
+        "image": "https://images.pexels.com/photos/18369283/pexels-photo-18369283/free-photo-of-tet-holiday-in-vietnam.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "text": "Lorem ipsum3",
+        "link": "",
+        "caption": "About"
+    },
+    {
+        "id": 3,
+        "title": "Developer",
+        "image": "https://images.pexels.com/photos/18294553/pexels-photo-18294553/free-photo-of-variety-of-cocktails-and-a-shaker-on-a-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "text": "Lorem ipsum4",
+        "link": "",
+        "caption": "About"
+    }
+]

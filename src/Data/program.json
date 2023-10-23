@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Html/CSS",
+        "description": "HTML on keel, milles märgendatakse veebilehti. Versioonid 2.0 kuni 4.01 HTML olid SGML-i rakendused. HTML-dokumentide veebist allalaadimiseks ja vaatamiseks kasutatakse enamasti veebibrauserit. Selline elektroonilise dokumendi märgendamise mõte on lahutada sisu, vaade jms objekti omadused üksteisest."
+    },
+    {
+        "id": 2,
+        "name": "Javascript",
+        "description": "JavaScript on Netscape'i loodud objektorienteeritud programmeerimiskeel, mida peamiselt kasutatakse koos HTML'i ja CSS'iga, et veebisaite teha. JavaScript on ECMAScripti standardiga defineeritud keele ülemhulk. Hoolimata nimest pole JavaScriptil kuigi palju ühist Javaga"
+    },
+    {
+        "id": 3,
+        "name": "PHP",
+        "description": "PHP on skriptimiskeel, mida kasutatakse peamiselt serveripoolsetes lahendustes dünaamiliste veebilehtede loomisel. PHP toetab objektorienteeritud programmeerimist, andmebaasidega suhtlemist ning moodulite kaudu veel paljusid protokolle ja rakendusi."
+    }
+]

@@ -2,7 +2,9 @@ import React, { Component } from 'react'
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse'
 import NavbarToggle from 'react-bootstrap/esm/NavbarToggle';
 import logo1 from './logo.png';
+import Home from '../pages/Home';
 import { Container, Nav, Navbar, NavbarBrand} from 'react-bootstrap'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 export default class Header extends Component {
   render() {
@@ -12,7 +14,7 @@ export default class Header extends Component {
             <Container>
                 <NavbarBrand href='/'>
                     <img src={logo1} height={30} width={30} className='d-inline-block align-top' alt='Logo1'/>
-                    React Site
+                    ReelHub Cinema
                 </NavbarBrand>
                 <NavbarToggle aria-controls='responsive-navbar-nav'></NavbarToggle>
                 <NavbarCollapse id='responsive-navbar-nav'>
@@ -30,6 +32,11 @@ export default class Header extends Component {
                 </NavbarCollapse>
             </Container>
         </Navbar>
+        <Router>
+            <Routes>
+                <Route exact path='/' element={<Home />} />
+            </Routes>
+        </Router>
       </>
     );
   }

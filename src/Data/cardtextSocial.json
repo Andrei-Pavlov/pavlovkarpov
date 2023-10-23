@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Instagram",
+        "image": "https://operationable.net/wp-content/uploads/2018/08/instagram-icon-300x300.png",
+        "text": "Our Instagram",
+        "link": "/about",
+        "caption": "About-taps"
+    },
+    {
+        "id": 2,
+        "title": "Twiter",
+        "image": "https://movecommunications.com/wp-content/uploads/2017/11/twitter-icon-300x300-300x300.png",
+        "text": "Our Twiter",
+        "link": "",
+        "caption": "About"
+    },
+    {
+        "id": 3,
+        "title": "Discord",
+        "image": "https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png",
+        "text": "Our Discord",
+        "link": "",
+        "caption": "About"
+    }
+]
